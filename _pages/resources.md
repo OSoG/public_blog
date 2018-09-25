@@ -4,7 +4,6 @@ permalink: /resources/
 author_profile: true
 ---
 
-# Introduction to statistical learning
 
 ![](https://www-bcf.usc.edu/~gareth/ISL/MOOC.jpg)
 
