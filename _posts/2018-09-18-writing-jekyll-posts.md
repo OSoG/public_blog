@@ -13,3 +13,7 @@ navigation을 만들어보자
 https://mmistakes.github.io/minimal-mistakes/docs/navigation/
 
 https://www.youtube.com/watch?v=35lZBO3XeDQ
+
+https://github.com/bundler/bundler/issues/2430
+
+https://mmistakes.github.io/minimal-mistakes/docs/navigation/
