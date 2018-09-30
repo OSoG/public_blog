@@ -9,13 +9,13 @@ main:
 
   - title: "About"
     url: /about/
-  - title: "»ç¶÷µé"
+  - title: "ì‚¬ëžŒë“¤"
     url: /people/
-  - title: "±Û"
+  - title: "ê¸€"
     url: /posts/
-  - title: "ÁÖÁ¦º°"
+  - title: "ì£¼ì œë³„"
     url: /categories/
-  - title: "ÅÂ±×º°"
+  - title: "íƒœê·¸ë³„"
     url: /tags/
   - title: "Resources"
     url: /resources/
