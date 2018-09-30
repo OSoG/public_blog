@@ -9,13 +9,13 @@ main:
 
   - title: "About"
     url: /about/
-  - title: "People"
+  - title: "사람들"
     url: /people/
-  - title: "Posts"
+  - title: "글"
     url: /posts/
-  - title: "by Topics"
+  - title: "주제별"
     url: /categories/
-  - title: "by Tags"
+  - title: "태그별"
     url: /tags/
   - title: "Resources"
     url: /resources/
